@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AlexVesely
-- 🌱 I’m currently studying computer science at university
+- 🌱 I’m currently BSc Computer Science Student at Swansea University
 - 📫 How to reach me: veselyalex11@gmail.com
