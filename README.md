@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @AlexVesely
 - 🌱 I’m currently a BSc Computer Science Student at Swansea University
-- 📫 How to reach me: veselyalex11@gmail.com
-- 😀 Check back for updates as I add more of my projects and work!
+- 📫 How to reach me: veselyalex11@gmail.com , https://www.linkedin.com/in/alex-vesely/
