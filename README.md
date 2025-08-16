@@ -4,7 +4,7 @@
   
 - 💻 My Toolkit: Java, Python, HTML, CSS, JavaScript, PHP, MySQL, Haskell, Prolog
 
-- 🔧 Currently working on personal projects in multiple languages, completing university coursework, and sharpening my skills on data structures and algorithms
+- 🔧 Currently working on personal projects in multiple languages, completing university, and sharpening my skills on data structures and algorithms
 
 <h3>✉️ Contact Me</h3>
 
