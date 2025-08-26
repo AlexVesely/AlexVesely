@@ -13,5 +13,5 @@
 - 💼 <a href="https://www.linkedin.com/in/alex-vesely">LinkedIn</a>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexVesely&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexVesely&layout=compact&theme=dracula&cache_seconds=600"/>
 </div>
