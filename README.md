@@ -2,7 +2,7 @@
 
 - 🏛️ Currently a BSc Computer Science Student at Swansea University
   
-- 💻 My Toolkit: Java, Python, HTML, CSS, JavaScript, PHP, MySQL, Haskell, Prolog
+- 💻 My Toolkit: Java, Python, HTML, CSS, JavaScript, PHP, MySQL, Haskell, Prolog, C, C#, C++
 
 - 🔧 Currently working on personal projects in multiple languages, completing university, and sharpening my skills on data structures and algorithms
 
