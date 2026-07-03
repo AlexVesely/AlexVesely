@@ -12,9 +12,5 @@
 
 - 💼 <a href="https://www.linkedin.com/in/alex-vesely">LinkedIn</a>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AlexVesely&layout=compact&langs_count=6&disable_animations=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=AlexVesely&layout=compact&langs_count=6&disable_animations=true&theme=dark)
 
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexVesely&layout=compact&theme=dracula&cache_seconds=600"/>
-</div> 
--->
