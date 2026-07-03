@@ -12,5 +12,6 @@
 
 - 💼 <a href="https://www.linkedin.com/in/alex-vesely">LinkedIn</a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AlexVesely&layout=compact&langs_count=6&disable_animations=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=AlexVesely&layout=compact&langs_count=6&disable_animations=true&theme=dark)
-
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=AlexVesely&layout=compact&langs_count=6&disable_animations=true&theme=dark" alt="GitHub Top Languages" />
+</p>
