@@ -1,10 +1,10 @@
 <h1>👋 Hi, I’m @AlexVesely</h1> 
 
-- 🏛️ Currently a BSc Computer Science Student at Swansea University
+- 🙂 Software Engineering Intern at Tricentis and First Class BSc Computer Science graduate from Swansea University.
   
-- 💻 My Toolkit: Java, Python, HTML, CSS, JavaScript, PHP, MySQL, Haskell, Prolog, C, C#, C++
+- 💻 Java, Python, C, C#, C++, HTML, CSS, JavaScript, PHP, MySQL, Haskell, Prolog
 
-- 🔧 Currently working on personal projects in multiple languages, completing university, and sharpening my skills on data structures and algorithms
+- 🔧 At work I build enterprise software for Tricentis. Outside of work, I enjoy developing personal projects, exploring new technologies, and experimenting with AI coding assistants.
 
 <h3>✉️ Contact Me</h3>
 
